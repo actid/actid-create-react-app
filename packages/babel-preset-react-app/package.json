@@ -1,5 +1,5 @@
 {
-  "name": "actid-babel-preset-react-app",
+  "name": "babel-preset-actid-react-app",
   "version": "3.1.7",
   "description": "Babel preset used by Create React App",
   "repository": "actid/actid-create-react-app",
