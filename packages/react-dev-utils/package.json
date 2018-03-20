@@ -1,6 +1,6 @@
 {
   "name": "actid-react-dev-utils",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Webpack utilities used by Create React App",
   "repository": "facebookincubator/create-react-app",
   "license": "MIT",
