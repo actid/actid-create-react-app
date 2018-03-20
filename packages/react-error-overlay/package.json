@@ -1,6 +1,6 @@
 {
   "name": "actid-react-error-overlay",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "An overlay for displaying stack frames.",
   "main": "lib/index.js",
   "scripts": {
@@ -30,12 +30,12 @@
     "lib/index.js"
   ],
   "devDependencies": {
-    "babel-preset-actid-react-app": "^3.1.5",
     "anser": "1.4.4",
     "babel-code-frame": "6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "7.2.3",
     "babel-loader": "^7.1.2",
+    "babel-preset-actid-react-app": "^3.1.8",
     "babel-runtime": "6.26.0",
     "chalk": "^2.1.0",
     "chokidar": "^1.7.0",
