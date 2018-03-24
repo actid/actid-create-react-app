@@ -1,6 +1,6 @@
 {
   "name": "actid-react-dev-utils",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Webpack utilities used by Create React App",
   "repository": "facebookincubator/create-react-app",
   "license": "MIT",
@@ -36,7 +36,7 @@
     "webpackHotDevClient.js"
   ],
   "dependencies": {
-    "actid-react-error-overlay": "^4.0.3",
+    "actid-react-error-overlay": "^4.0.4",
     "address": "1.0.3",
     "babel-code-frame": "6.26.0",
     "chalk": "1.1.3",

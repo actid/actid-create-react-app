@@ -1,6 +1,6 @@
 {
   "name": "actid-react-scripts",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "Configuration and scripts for Create React App.",
   "repository": "actid/actid-create-react-app",
   "license": "MIT",
@@ -21,7 +21,7 @@
     "react-scripts": "./bin/react-scripts.js"
   },
   "dependencies": {
-    "actid-react-dev-utils": "^5.0.5",
+    "actid-react-dev-utils": "^5.0.6",
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
@@ -35,7 +35,7 @@
     "dotenv": "4.0.0",
     "dotenv-expand": "4.2.0",
     "eslint": "4.10.0",
-    "eslint-config-actid-react-app": "^2.1.0",
+    "eslint-config-actid-react-app": "^2.1.1",
     "eslint-loader": "1.9.0",
     "eslint-plugin-flowtype": "2.39.1",
     "eslint-plugin-import": "2.8.0",
